@@ -2,7 +2,7 @@ title: DNA Test - Prototype
 
 email: Queenie.Lee@finance.nsw.gov.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Test to for TJ's session
+  Test to for TJs session
 baseurl: "/DNATest" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Q
